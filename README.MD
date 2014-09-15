@@ -1,0 +1,3 @@
+FizzBuzz Playground:
+
+I decided to use a conditional statement for the method to return the correct value.  In order to avoid returning "Fizz" or "Buzz" for a number like 15 that is divisble by both 3 and 5 I had the method check to see if the number was divisible by both first.  Then I wrote it to check to see if it was divisible by 3 only and then 5 only.  Finally if was not divisible by 3 or 5 it returns the number.
